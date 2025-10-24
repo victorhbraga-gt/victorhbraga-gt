@@ -1,4 +1,4 @@
-## Victor Hugo Braga
+## Victor Braga
 
 ### Atuário Quantitativo em Formação | FEA-USP & FEA.dev
 Minha jornada não é sobre escolher entre o rigor clássico da atuária e a velocidade da ciência de dados. É sobre ser o profissional que domina os dois.
