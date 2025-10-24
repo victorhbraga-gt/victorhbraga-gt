@@ -1,6 +1,6 @@
 ## Victor Braga
 
-## Quantitative Actuary in Training | FEA-USP & FEA.dev
+## Quantitative Actuary in Development | FEA-USP & FEA.dev
 My journey isn't about choosing between classic actuarial rigor and the speed of data science. It's about being the professional who masters both.
 
 ## Objectives:
