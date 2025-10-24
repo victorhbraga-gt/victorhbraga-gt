@@ -1,16 +1,19 @@
-## Hi there 👋
+## Victor Hugo Braga
 
-<!--
-**victorhbraga-gt/victorhbraga-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atuário Quantitativo em Formação | FEA-USP & FEA.dev
+*Minha jornada não é sobre escolher entre o rigor clássico da atuária e a velocidade da ciência de dados. É sobre ser o profissional que domina os dois.*
 
-Here are some ideas to get you started:
+## Objetivos:
+Estou construindo um perfil para operar na intersecção da matemática, programação e estratégia de mercado. Busco ativamente me conectar com líderes e equipes de **Trading Quantitativo**, **Gestão de Ativos (Asset Management)** e **Risco de Mercado** para resolver desafios de alto impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas
+
+`Python` `SQL` `VBA` `Power BI`
+
+### Contato
+
+[**LinkedIn**](https://www.linkedin.com/in/victorhmendess/) | [**E-mail**](mailto:victorhbraga@usp.br)
+
+
+
+
