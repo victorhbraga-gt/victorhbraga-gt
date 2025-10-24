@@ -8,7 +8,7 @@ I am building a profile to operate at the intersection of mathematics, programmi
 
 ### Tools
 
-`Python` `SQL` `VBA` `Power BI`
+`Python` `SQL` `VBA`
 
 ### Contact
 
