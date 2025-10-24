@@ -1,19 +1,18 @@
 ## Victor Braga
 
-### Atuário Quantitativo em Formação | FEA-USP & FEA.dev
-Minha jornada não é sobre escolher entre o rigor clássico da atuária e a velocidade da ciência de dados. É sobre ser o profissional que domina os dois.
+## Quantitative Actuary in Training | FEA-USP & FEA.dev
+My journey isn't about choosing between classic actuarial rigor and the speed of data science. It's about being the professional who masters both.
 
-## Objetivos:
-Estou construindo um perfil para operar na interseção da matemática, programação e estratégia de mercado. Busco ativamente me conectar com líderes e equipes de **Trading Quantitativo**, **Gestão de Ativos (Asset Management)** e **Risco de Mercado** para resolver desafios de alto impacto.
+## Objectives:
+I am building a profile to operate at the intersection of mathematics, programming, and market strategy. I am actively seeking to connect with leaders and teams in **Quantitative Trading**, **Asset Management**, and **Market Risk** to solve high-impact challenges.
 
-### Ferramentas
+### Tools
 
 `Python` `SQL` `VBA` `Power BI`
 
-### Contato
+### Contact
 
 [**LinkedIn**](https://www.linkedin.com/in/victorhmendess/) | [**E-mail**](mailto:victorhbraga@usp.br)
-
 
 
 
